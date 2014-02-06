@@ -1,4 +1,0 @@
-EnSoft
-======
-
-EnSoft Exercise
